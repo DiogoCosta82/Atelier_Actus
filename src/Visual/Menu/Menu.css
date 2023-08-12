@@ -1,0 +1,18 @@
+.menuContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin: 0 auto;
+  background-color: whitesmoke;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+button {
+  width: 10rem;
+  height: 2rem;
+  border-radius: 1rem;
+  font-family: "Krona One", sans-serif;
+  font-size: 10px;
+}

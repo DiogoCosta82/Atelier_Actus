@@ -1,0 +1,16 @@
+.homeContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  margin: 1rem;
+}
+img {
+  width: 20rem;
+  height: auto;
+}
+
+.ant-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
